@@ -3,11 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...my portfolio
-- 🌱 I’m currently learning ...Python3
-- 👯 I’m looking to collaborate on ... everyone
-- 🤔 I’m looking for help with ...furthering my career 
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...Scotth72@gmail.com
-- ⚡ Fun fact: ...I am Native American
--->
+Hello, My name is Heath. I am a Full Stack Web Developer that learned my skills that I became passionate about while training at Lambda. 
+I developed the skills in:
+<br/>
+  * Utilized agile software development and Git workflow on all projects
+              
+  * Collaborating in Team envirnoment to develop team projects
+
+  * Wrote production-ready code using ReactJS, Redux, and CSS on the frontend to build single page applications with a cross-functional team
+
