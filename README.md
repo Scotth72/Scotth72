@@ -11,4 +11,8 @@ I developed the skills in:
   * Collaborating in Team envirnoment to develop team projects
 
   * Wrote production-ready code using ReactJS, Redux, and CSS on the frontend to build single page applications with a cross-functional team
+  
+  Contact me...  https://www.linkedin.com/in/heath-l-scott/
+  <br/>
+  Email ...      Scotth72@gmail.com
 
